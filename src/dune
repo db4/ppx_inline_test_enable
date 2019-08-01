@@ -1,0 +1,4 @@
+(library
+ (name ppx_inline_test_enable)
+ (public_name ppx_inline_test_enable)
+ (c_names am_testing))
